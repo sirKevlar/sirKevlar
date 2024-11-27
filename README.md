@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kev Morel (@sirKevlar)
 - 👀 I’m interested in coding, music production and organic gardening
-- 🌱 I’m currently learning JavaScript, AWS and humility
+- 🌱 I’m currently learning TypeScript, Animation and humility
 - 💞️ I’m looking to collaborate on many things in the future
 - 📫 How to reach me https://www.linkedin.com/in/kev-morel-392934b6/
 
