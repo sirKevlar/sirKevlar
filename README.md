@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kev Morel (@sirKevlar)
-- 👀 I’m interested in coding, music production, yoga, calisthenics, and organic gardening
+- 👀 I’m interested in coding, music production, organic gardening, yoga and calisthenics
 - 💻 I worked for Northcoders as a Software Engineer and Seminar Lead for almost 4 years
 - 🌱 I’m currently learning TypeScript, Animation and humility
 - 💞️ I’m looking to collaborate on many things in the future
